@@ -28,3 +28,21 @@ li a {
     color: antiquewhite;
     font-family: 'Pacifico', Regular;
 }
+.ftrlnks{
+    list-style-type: none;
+    margin: 5px 5px;
+    padding: 10px;
+    overflow: hidden;
+}
+.ftrlnks li{
+    float: left;
+}
+.ftrlnks li a{
+    position: relative;
+    display: block;
+    text-align: center;
+    padding: 10px 5px;
+}
+#ftrlnks{
+    background-color: beige;
+}
