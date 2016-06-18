@@ -1,3 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
 ul{
     list-style-type: none;
     margin: 5px;
@@ -20,11 +25,11 @@ li a {
     background-image: url(../images/party.jpg);
     background-size: cover;
     width: 100%;
-    height: 400px;
+    height: 600px;
     width: 100%;
 }
 #h3{
-    padding-top: 50px;
+    padding-top: 70px;
     color: antiquewhite;
     font-family: 'Pacifico', Regular;
 }
@@ -45,4 +50,13 @@ li a {
 }
 #ftrlnks{
     background-color: beige;
+}
+.text-box{
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.text{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: bisque;
 }
