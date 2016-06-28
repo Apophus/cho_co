@@ -61,6 +61,12 @@ li a {
     background-color: bisque;
 }
 img{
-    height: 250px;
-    
+    height: auto;
+    width: 350px;
+}
+.column{
+    margin: 10px;
+    padding: 10px;
+    max-width: 300px;
+    height: 300px;
 }
